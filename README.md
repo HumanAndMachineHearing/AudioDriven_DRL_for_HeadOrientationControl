@@ -1,4 +1,4 @@
-#Audio-Driven Deep Reinforcement Learning for Head Orientation Control in Naturalistic Environments
+# Audio-Driven Deep Reinforcement Learning for Head Orientation Control in Naturalistic Environments
 
 This repository provides an implementation of a reinforcement learning framework utilising deep q learning and a recurrent neural network for audio-driven head orientation control. The framework is described in detail in our paper: 
 
