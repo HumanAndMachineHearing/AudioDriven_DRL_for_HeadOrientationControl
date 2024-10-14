@@ -1,9 +1,7 @@
 # AudioDriven_DRL_for_HeadOrientationControl
 https://github.com/HumanAndMachineHearing/AudioDriven_DRL_for_HeadOrientationControl
 
-Shield: ![CC BY 4.0][cc-by-shield][cc-by]
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)]
 
 ![Static Badge](https://img.shields.io/badge/test-kiki-brightgreen)
 
