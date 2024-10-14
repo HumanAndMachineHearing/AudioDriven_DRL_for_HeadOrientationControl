@@ -4,6 +4,12 @@ This repository provides an implementation of a reinforcement learning framework
 
 Ledder, W., Qin, Y., & van der Heijden, K. (2024). Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments. arXiv preprint arXiv:2409.10048.
 
+## Contents
+
+### Data
+
+### Code
+
 ## Citation
 If you find this repository helpful in an academic setting, please cite: 
 
