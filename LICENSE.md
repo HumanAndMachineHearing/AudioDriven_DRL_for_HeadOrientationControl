@@ -3,6 +3,8 @@ https://github.com/HumanAndMachineHearing/AudioDriven_DRL_for_HeadOrientationCon
 
 Shield: ![CC BY 4.0][cc-by-shield][cc-by]
 
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
 ![Static Badge](https://img.shields.io/badge/test-kiki-brightgreen)
 
 This work is available under the terms of the Creative Commons
