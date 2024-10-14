@@ -6,11 +6,11 @@ Ledder, W., Qin, Y., & van der Heijden, K. (2024). Audio-Driven Reinforcement Le
 
 If you find this repository helpful in an academic setting, please cite: 
 
-'''bibtex
+```bibtex
 @article{ledder2024audio,
   title={Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments},
   author={Ledder, Wessel and Qin, Yuzhen and van der Heijden, Kiki},
   journal={arXiv preprint arXiv:2409.10048},
   year={2024}
 }
-'''
+```
