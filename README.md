@@ -7,6 +7,7 @@ Ledder, W., Qin, Y., & van der Heijden, K. (2024). Audio-Driven Reinforcement Le
 ## Contents
 
 ### Data
+Agents were trained on speech clips of 10 s duration. Speech clips were randomly assigned to a certain location. Txt files show the combinations used here. 
 
 ### Code
 
