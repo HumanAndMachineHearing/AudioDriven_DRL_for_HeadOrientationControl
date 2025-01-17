@@ -1,0 +1,6 @@
+numpy
+torch==2.5.1+cu118 -f https://download.pytorch.org/whl/torch_stable.html
+torchaudio==2.5.1+cu118 -f https://download.pytorch.org/whl/torch_stable.html
+wandb
+sofa
+tqdm
