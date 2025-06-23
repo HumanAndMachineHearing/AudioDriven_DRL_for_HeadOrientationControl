@@ -44,11 +44,15 @@ Here, `xxx` should be replaced by `anechoic`, `lowreverb`, `midreverb` or `highr
 If you find this repository helpful in an academic setting, please cite: 
 
 ```bibtex
-@article{ledder2024audio,
-title={Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments},
-author={Ledder, Wessel and Qin, Yuzhen and van der Heijden, Kiki},
-journal={arXiv preprint arXiv:2409.10048},
-year={2024}
+@inproceedings{ledder2024audio,
+  author={Ledder, Wessel and Qin, Yuzhen and van der Heijden, Kiki},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ICASSP49660.2025.10890108}
 }
 ```
 
