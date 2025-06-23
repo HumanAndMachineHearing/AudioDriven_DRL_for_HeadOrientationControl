@@ -4,7 +4,7 @@
 
 This repository provides an implementation of a reinforcement learning framework utilising deep Q-learning and a recurrent neural network for audio-driven head orientation control. The framework is described in detail in our paper: 
 
-Ledder, W., Qin, Y., & van der Heijden, K. (2024). Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments. arXiv preprint arXiv:2409.10048.
+Ledder, W., Qin, Y., & van der Heijden, K. (2025). Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments. ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5, doi: 10.1109/ICASSP49660.2025.10890108.
 
 ## Abstract
 
