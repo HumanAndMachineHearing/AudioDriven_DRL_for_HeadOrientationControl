@@ -16,11 +16,9 @@ from torch.optim.lr_scheduler import StepLR
 # ------------------------------------------------------------
 # Directories
 # ------------------------------------------------------------
-dir_random_sampling_file = "/home/kvanderheij/AudioDriven_RL/"
-dir_data = "/home/kvanderheij/AudioDriven_RL/Data/samples_10s"
-#dir_brir = '/home/wesled/BRIRs_16000Hz'
-#dir_brir = '/home/kvanderheij/AudioDriven_RL/Data/BRIRs_16000Hz_smallset'
-dir_brir = '/home/kvanderheij/AudioDriven_RL/Data/BRIRs_AudioDriven_RL_lowreverb'
+dir_random_sampling_file = "/fldr_randomsampling"
+dir_data = "/fldr_data"
+dir_brir = '/fldr_brir'
 
 # #%%
 # ------------------------------------------------------------
