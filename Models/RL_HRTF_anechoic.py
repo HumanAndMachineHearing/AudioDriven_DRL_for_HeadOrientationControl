@@ -16,9 +16,9 @@ import random
 # ------------------------------------------------------------
 # Directories
 # ------------------------------------------------------------
-dir_random_sampling_file = "/home/kvanderheij/AudioDriven_RL/"
-dir_data = "/home/kvanderheij/AudioDriven_RL/Data/samples_10s"
-dir_hrtf = "/home/kvanderheij/AudioDriven_RL/KEMAR_Knowl_EarSim_SmallEars_FreeFieldComp_48kHz.sofa"
+dir_random_sampling_file = "/fldr_randomsampling"
+dir_data = "/fldr_data"
+dir_hrtf = '/fldr_hrtf'
 
 # #%%
 # ------------------------------------------------------------
