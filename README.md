@@ -53,7 +53,7 @@ Here, `xxx` should be replaced by `anechoic` or `reverb`. In the `reverb` option
 If you find this repository helpful in an academic setting, please cite: 
 
 ```bibtex
-@inproceedings{ledder2024audio,
+@inproceedings{ledder2025audio,
   author={Ledder, Wessel and Qin, Yuzhen and van der Heijden, Kiki},
   booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title={Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments}, 
