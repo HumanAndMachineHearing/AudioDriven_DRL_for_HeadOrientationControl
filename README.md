@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ### Code
 
-The training script provided can be used to train the weights of the deep Q-network for environments with a given level of reverberation (anechoic, low, medium or high). The testing script can be used to test the agent on the environment it has been trained on, or on a different environment.
+The training script provided can be used to train the weights of the deep Q-network for environments with a given level of reverberation (anechoic, low, medium or high). First, at the top of the file, fill in the locations of all folders and files necessary.
 
 To run the scripts, the following commands can be used:
 
@@ -39,6 +39,15 @@ python3 Models/RL_BRIR_xxx.py
 ```
 
 Here, `xxx` should be replaced by `anechoic`, `lowreverb`, `midreverb` or `highreverb`.
+
+The testing script can be used to test the agent on the environment it has been trained on, or on a different environment. Fill this in, along with the locations of all folders at the top of the script. Then, run the scripts using:
+
+```bash
+source venv/bin/activate  # for Windows, use: venv\Scripts\activate
+python3 Evaluation/Evaluation_RL_xxx_env.py
+```
+
+Here, `xxx` should be replaced by `anechoic` or `reverb`. In the `reverb` option, you can choose the exact reverb level at the top of the file.
 
 ## Citation
 If you find this repository helpful in an academic setting, please cite: 
@@ -55,8 +64,6 @@ If you find this repository helpful in an academic setting, please cite:
   doi={10.1109/ICASSP49660.2025.10890108}
 }
 ```
-
-The BibTeX will be updated once the ICASSP 2025 proceedings are published.
 
 ## References
 
